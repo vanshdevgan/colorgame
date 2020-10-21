@@ -1,3 +1,2 @@
 # colorgame
-Color Game Project Built To Learn JavaScript 
-It is nice project for good understanding
+Color Game Project is a begineer friendly Javascript Project for the better understanding of the Language.
