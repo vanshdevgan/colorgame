@@ -84,7 +84,7 @@ background: linear-gradient(to right, #64b3f4, #c2e59c); /* W3C, IE 10+/ Edge, F
 	border-radius: 25%;
 	transition:all 0.7s;
 	-webkit-transition:all 0.7s;
-	-moz-transition:all 0.7s;  /* fallback for old browsers */
+	-moz-transition:all 0.7s;  /* FALLBACK FOR OLD BROWSERS */
 background: rgba(253, 255 , 253 ,0.1);
 }
 #rulesh{
@@ -93,7 +93,7 @@ color:white;
 font-weight: bold;
 	transition:all 0.7s;
 	-webkit-transition:all 0.7s;
-	-moz-transition:all 0.7s;  /* fallback for old browsers */
+	-moz-transition:all 0.7s;  /* FALLBACK FOR OLD BROWSERS */
 }
 #rulesh:first-letter{
 	color:white;
@@ -101,7 +101,7 @@ font-weight: bold;
 	font-family: "Montserrat","Avenier";
 	transition:all 0.7s;
 	-webkit-transition:all 0.7s;
-	-moz-transition:all 0.7s;  /* fallback for old browsers */
+	-moz-transition:all 0.7s;  /* FALLBACK FOR OLD BROWSERS */
 }
 .rg{
 	font-size:23px;
@@ -111,5 +111,5 @@ font-weight: bold;
 	font-weight: bold;
 	transition:all 0.7s;
 	-webkit-transition:all 0.7s;
-	-moz-transition:all 0.7s;  /* fallback for old browsers */
+	-moz-transition:all 0.7s;  /* FALLBACK FOR OLD BROWSERS */
 }
